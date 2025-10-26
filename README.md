@@ -5,6 +5,6 @@ Hasil: Berhasil menjalankan project Flutter menggunakan Chrome (Web) & device sm
 
 ## Bukti Praktik
 flutter devices` menunjukkan device terhubung
-flutter run -d chrome` berhasil menampilkan Flutter Demo Home Page
+flutter run ` berhasil menampilkan Flutter Demo Home Page
 
 
