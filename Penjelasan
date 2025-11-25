@@ -1,0 +1,13 @@
+Karena saya memakai flutter maka saya pakai firebase sebagai database namun tetap ada kurangnya
+walaupun bisa menghasilkan data secara real-time
+
+Kelebihan:
+- Real-time sync.
+- Storage cloud yang scalable.
+- Mendukung offline caching.
+- Terintegrasi dengan Firebase Authentication (login Google).
+
+Kekurangan:
+- Butuh internet untuk sinkronisasi penuh.
+- Biaya penggunaan tergantung trafik.
+- Berbasis dokumen, bukan SQL.
